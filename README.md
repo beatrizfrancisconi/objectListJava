@@ -10,4 +10,4 @@ b) Só podem ser associados clientes e funcionários à empresa após criar a em
 
 c) Somente uma empresa pode ser criada durante a execução do sistema.
 
-![img1](https://imgur.com/a/ISFCf0n)
+![img1](https://i.imgur.com/n0Vzj4o.png)
